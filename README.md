@@ -36,6 +36,9 @@ In YouTube or Spotify tap **Share → Mr White**, or paste a link, then tap
 **Download**. Songs are saved in **Music/Mr White** and appear in your
 music player.
 
+**Languages:** English and Arabic (العربية). The app follows your phone's
+language; on Android 13 or newer you can also choose it in **⋮ → Language**.
+
 Spotify songs are found on YouTube by title, artist and length. A match is a best
 guess and is not guaranteed to be the exact recording Spotify plays.
 
@@ -57,7 +60,9 @@ guess and is not guaranteed to be the exact recording Spotify plays.
 4. لو ظهر تحذير من Google Play Protect، دوس **مزيد من التفاصيل ← التثبيت على أي حال**.
 5. افتح التطبيق أول مرة وانت متصل بالإنترنت (التجهيز بياخد حوالي دقيقة).
 
-**الاستخدام:** من يوتيوب أو سبوتيفاي دوس **مشاركة ← Mr White**، أو الصق الرابط ودوس **Download**.
+**الاستخدام:** من يوتيوب أو سبوتيفاي دوس **مشاركة ← Mr White**، أو الصق الرابط ودوس **تنزيل**.
 الأغاني بتتحفظ في **Music/Mr White**.
+
+**اللغة:** التطبيق بالعربي والإنجليزي، وبيمشي على لغة الموبايل تلقائيًا. على أندرويد 13 أو أحدث تقدر تختار اللغة من القائمة **⋮ ← اللغة**.
 
 > حمّل بس الأغاني اللي تملكها أو عندك إذن بتحميلها.
