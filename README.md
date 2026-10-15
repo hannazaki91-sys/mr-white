@@ -1,4 +1,4 @@
-# Easy MP3 Downloader for Android
+# Mr White for Android
 
 Share or paste a YouTube video or playlist link, or a Spotify song, playlist or
 album link, and the app saves the audio as MP3 with title, artist, album and
@@ -8,11 +8,11 @@ cover art. Everything runs on the phone. There's no account and no ads.
 
 | Your phone | File |
 |---|---|
-| **Almost every phone from the last 8 years** (pick this if unsure) | [**EasyMP3-arm64-v8a.apk**](https://github.com/hannazaki91-sys/easy-mp3-downloader-app/releases/latest/download/EasyMP3-arm64-v8a.apk) (60 MB) |
-| Works on every phone, but much bigger | [EasyMP3-universal.apk](https://github.com/hannazaki91-sys/easy-mp3-downloader-app/releases/latest/download/EasyMP3-universal.apk) (199 MB) |
+| **Almost every phone from the last 8 years** (pick this if unsure) | [**MrWhite-arm64-v8a.apk**](https://github.com/hannazaki91-sys/mr-white/releases/latest/download/MrWhite-arm64-v8a.apk) (60 MB) |
+| Works on every phone, but much bigger | [MrWhite-universal.apk](https://github.com/hannazaki91-sys/mr-white/releases/latest/download/MrWhite-universal.apk) (199 MB) |
 
 Requires Android 8.0 or newer. All versions and checksums are on the
-[Releases page](https://github.com/hannazaki91-sys/easy-mp3-downloader-app/releases).
+[Releases page](https://github.com/hannazaki91-sys/mr-white/releases).
 
 ## Install
 
@@ -32,8 +32,8 @@ are kept.
 
 ## Use
 
-In YouTube or Spotify tap **Share → Easy MP3**, or paste a link, then tap
-**Download**. Songs are saved in **Music/EasyMP3Downloader** and appear in your
+In YouTube or Spotify tap **Share → Mr White**, or paste a link, then tap
+**Download**. Songs are saved in **Music/Mr White** and appear in your
 music player.
 
 Spotify songs are found on YouTube by title, artist and length. A match is a best
@@ -46,8 +46,8 @@ guess and is not guaranteed to be the exact recording Spotify plays.
 
 ## تحميل التطبيق (بالعربي)
 
-- **لمعظم الموبايلات (اختار ده لو مش متأكد):** [EasyMP3-arm64-v8a.apk](https://github.com/hannazaki91-sys/easy-mp3-downloader-app/releases/latest/download/EasyMP3-arm64-v8a.apk) (60 ميجا)
-- **يشتغل على أي موبايل، بس حجمه أكبر:** [EasyMP3-universal.apk](https://github.com/hannazaki91-sys/easy-mp3-downloader-app/releases/latest/download/EasyMP3-universal.apk) (199 ميجا)
+- **لمعظم الموبايلات (اختار ده لو مش متأكد):** [MrWhite-arm64-v8a.apk](https://github.com/hannazaki91-sys/mr-white/releases/latest/download/MrWhite-arm64-v8a.apk) (60 ميجا)
+- **يشتغل على أي موبايل، بس حجمه أكبر:** [MrWhite-universal.apk](https://github.com/hannazaki91-sys/mr-white/releases/latest/download/MrWhite-universal.apk) (199 ميجا)
 
 **طريقة التثبيت:**
 
@@ -57,7 +57,7 @@ guess and is not guaranteed to be the exact recording Spotify plays.
 4. لو ظهر تحذير من Google Play Protect، دوس **مزيد من التفاصيل ← التثبيت على أي حال**.
 5. افتح التطبيق أول مرة وانت متصل بالإنترنت (التجهيز بياخد حوالي دقيقة).
 
-**الاستخدام:** من يوتيوب أو سبوتيفاي دوس **مشاركة ← Easy MP3**، أو الصق الرابط ودوس **Download**.
-الأغاني بتتحفظ في **Music/EasyMP3Downloader**.
+**الاستخدام:** من يوتيوب أو سبوتيفاي دوس **مشاركة ← Mr White**، أو الصق الرابط ودوس **Download**.
+الأغاني بتتحفظ في **Music/Mr White**.
 
 > حمّل بس الأغاني اللي تملكها أو عندك إذن بتحميلها.
